@@ -1,0 +1,46 @@
+primer paso
+ //recibir k y t para formar n
+segundo paso 
+// a generar cartas
+ 
+tercer paso
+ definir clase jugadores 
+ definir m cantidad de jugadores
+  insertar variables:
+   nombre
+   puntuacion --> predeterminado en 0
+ definir m cantidad de jugadores
+cuarto paso 
+ mostar menu de opciones
+quinto paso 
+ aleatorizar orden de juego
+sexto paso 
+ mostar reverso de las cartas
+septimo paso
+ Seleccionar cartas y tipo de relacion
+  usuario escoge cartas y tipos de relación
+     N = por número
+     L = letra
+ voltear cartas con datos    
+ 6A
+  si cumple condiciónes gana la suma de los digitos de las 2 cartas
+ volta las cartas
+ 6B
+  si no voltea las cartas
+
+ si usuario escoge (A = ambos y hay tercera carta){
+      preguntar donde está la carta
+      voltear cartas con datos 
+      si acierta = + puntos y voltear cartas
+  
+      si no voltear cartas
+        }
+ mostar puntos + resultado
+**guardar nombre,eleccion,si acertó o no, cantidad de puntos
+8 paso
+  voltear cartas ya descubiertas con datos 
+  volver a hacer el paso 4
+**************************************************************************++
+  b insertar cartas d y c
+   cada tipo cuenta con 5 cartas
+**d = duplicar y c = cuadruplicar
